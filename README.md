@@ -3,7 +3,7 @@
 <p align="center">
   🧠 BTech CSE Student @ IIIT Guwahati <br/>
   💻 Passionate about Web Development & Algorithms <br/>
-  🔍 Currently diving deep into APIs, Webpack, and scalable front-end architecture <br/>
+  🔍 Currently diving deep into THREE.js, gsap and react <br/>
 </p>
 
 ---
@@ -33,6 +33,7 @@ I’ve built multiple front-end projects that demonstrate mastery in HTML, CSS, 
 ### 🔗 Web & API:
 - Fetch API (`fetch`, `async/await`, error handling)
 - JSON parsing and transformation
+- APIs, Webpack, and scalable front-end architecture
 - Real-time data integration (Weather API, Geolocation)
 
 ### 🧰 Workflow Tools:
