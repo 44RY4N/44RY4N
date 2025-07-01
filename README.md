@@ -2,8 +2,8 @@
 
 <p align="center">
   🧠 BTech CSE Student @ IIIT Guwahati <br/>
-  💻 Passionate about Web Development, Creative UI/UX & Algorithms <br/>
-  🎮 Building smart, interactive, and aesthetic web experiences <br/>
+  💻 Web Development, Creative UI/UX & Algorithms <br/>
+  🎮 Building smart, interactive, and fun web experiences <br/>
 </p>
 
 ---
@@ -90,8 +90,6 @@ Currently diving deep into **JavaScript**, **Three.js**, **modular architecture*
 
 ## 🧭 Stats & Highlights
 
-- 🎯 **Internship Readiness**: ~92%
-- 📘 **The Odin Project**: Intermediate JS in progress
 - 🧪 **Project Volume**: 10+ full projects live
 - 🕹️ **Game AI Implemented**: 2 games (Minimax + Heuristic AI)
 - ⚒️ **3D + Animation Capable**: Three.js, GSAP, WebGL basics
