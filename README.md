@@ -21,7 +21,7 @@ Currently diving deep into **JavaScript**, **Three.js**, **modular architecture*
 ### 👨‍💻 Languages:
 - **C**, **Python**, **Java**, **SQL**
 - **HTML5**, **CSS3**, **JavaScript (ES6)**
-- **React**,** jsPDF**,**ThreeJs**
+- **React**,**jsPDF**,**ThreeJs**
 
 ### 🎨 Front-End:
 - Responsive Design using `%`, `em`, `rem`, `vh/vw`
