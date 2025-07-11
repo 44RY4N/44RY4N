@@ -21,6 +21,7 @@ Currently diving deep into **JavaScript**, **Three.js**, **modular architecture*
 ### 👨‍💻 Languages:
 - **C**, **Python**, **Java**, **SQL**
 - **HTML5**, **CSS3**, **JavaScript (ES6)**
+- **React**,** jsPDF**,**ThreeJs**
 
 ### 🎨 Front-End:
 - Responsive Design using `%`, `em`, `rem`, `vh/vw`
@@ -48,6 +49,7 @@ Currently diving deep into **JavaScript**, **Three.js**, **modular architecture*
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🛳️ Battleships](https://44ry4n.github.io/battleships/) | 3D menu, camera transitions, custom-built AI opponent, GSAP & Three.js animations | JS, Three.js, GSAP |
+| [📄 Resume Generator](https://44ry4n.github.io/resume-generator/) | Live resume preview, jsPDF export, modular form architecture, link detection | React, jsPDF, CSS |
 | [🌦️ Weather App](https://44ry4n.github.io/weather-app/) | Multi-API project with real-time weather, time zones, wind animation, responsive theming, and search | JS, Fetch API, Modular CSS |
 | [✍️ To-Do List](https://44ry4n.github.io/todo-list/) | Modular JS structure, full CRUD, localStorage, filters, date sorting, SOLID principles | JS, HTML, CSS |
 | [📚 Library App](https://44ry4n.github.io/library-app/) | Object constructors, transitions, validations, responsive card layout | JS, CSS |
