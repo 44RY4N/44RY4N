@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year Computer Science undergrad who’s obsessed with building visually appealing, responsive web projects and solving logic-heavy challenges. I combine my knowledge of algorithms with front-end creativity to create apps that *work smart and look sharp*.
+Third-year Computer Science undergrad obsessed with building visually appealing, responsive web projects and solving logic-heavy challenges. I combine algorithms with front-end creativity to create apps that *work smart and look sharp*.
 
 Currently diving deep into **JavaScript**, **Three.js**, **modular architecture**, and exploring **AI logic** in web-based games.
 
