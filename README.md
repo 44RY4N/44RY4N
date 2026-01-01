@@ -74,7 +74,7 @@ Currently diving deep into **Node.js, Express, modular backend architecture**, a
 
 | Project                                                           | Description                                                                                          | Stack                      |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
-| [🌍 Intours API](https://github.com/44RY4N/Intours-API) | REST API with MVC architecture, structured routing, and scalable backend design (MongoDB integration in progress) | Node.js, Express.js, MVC |
+| [🌍 Intours API](https://github.com/44RY4N/Intours-API) | REST API with MVC architecture, structured routing, and scalable backend design (Multibranched with MongoDB Integration) | Node.js, Express.js, MVC |
 | [🛳️ Battleships](https://44ry4n.github.io/battleships/)          | 3D menu, camera transitions, custom-built AI opponent, GSAP & Three.js animations                    | JS, Three.js, GSAP         |
 | [📄 Resume Generator](https://44ry4n.github.io/resume-generator/) | Live resume preview, jsPDF export, modular form architecture, link detection                         | React, jsPDF, CSS          |
 | [🌦️ Weather App](https://44ry4n.github.io/weather-app/)          | Multi-API project with real-time weather, time zones, wind animation, responsive theming, and search | JS, Fetch API, Modular CSS |
