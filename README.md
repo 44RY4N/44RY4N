@@ -1,8 +1,6 @@
 
 ---
 
-# 👋 Hi, I'm Aaryan
-
 <p align="center">
   🧠 BTech CSE Student @ IIIT Guwahati <br/>
   💻 Web Development, Creative UI/UX & Backend Engineering <br/>
