@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Third-year Computer Science undergrad obsessed with building visually appealing, responsive web projects and solving logic-heavy challenges. I combine **front-end creativity with backend logic** to create apps that *work smart and scale clean*.
+Third-year Computer Science undergrad. I combine **front-end creativity with backend logic** to create apps that *work smart and scale clean*.
 
 Currently diving deep into **Node.js, Express, modular backend architecture**, and **API design**, while continuing to explore **Three.js**, **modern frontend patterns**, and **AI logic** in web-based projects.
 
