@@ -125,7 +125,7 @@ Currently diving deep into **Node.js, Express, modular backend architecture**, a
 
 ## 📫 Connect With Me
 
-* 📬 Email: [aaryan23b@iiitg.ac.in](mailto:aaryan23b@iiitg.ac.in)
+* 📬 Email: [aaryan00652@gmail.com](mailto:aaryan00652@gmail.com)
 * 🌐 GitHub: [44RY4N](https://github.com/44RY4N)
 * 🧠 Portfolio: Coming soon...
 
