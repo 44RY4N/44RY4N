@@ -63,9 +63,9 @@ UI & Interaction Design:
 
 ---
 
-## 📁 Notable Projects
+##  Notable Projects
 
-### 🌍 **Intours API** *(Backend Project)*
+###  **Intours API** *(Backend Project)*
 
 **Tech:** Node.js, Express.js, MVC Architecture *(MongoDB integration in progress)*
 
@@ -78,21 +78,21 @@ UI & Interaction Design:
 
 | Project                                                           | Description                                                                                          | Stack                      |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------- |
-| [🌍 Intours API](https://github.com/44RY4N/Intours-API) | REST API with MVC architecture, structured routing, and scalable backend design (Multibranched with MongoDB Integration) | Node.js, Express.js, MVC |
-| [🛳️ Battleships](https://44ry4n.github.io/battleships/)          | 3D menu, camera transitions, custom-built AI opponent, GSAP & Three.js animations                    | JS, Three.js, GSAP         |
-| [📄 Resume Generator](https://44ry4n.github.io/resume-generator/) | Live resume preview, jsPDF export, modular form architecture, link detection                         | React, jsPDF, CSS          |
-| [🌦️ Weather App](https://44ry4n.github.io/weather-app/)          | Multi-API project with real-time weather, time zones, wind animation, responsive theming, and search | JS, Fetch API, Modular CSS |
-| [✍️ To-Do List](https://44ry4n.github.io/todo-list/)              | Modular JS structure, full CRUD, localStorage, filters, date sorting, SOLID principles               | JS, HTML, CSS              |
-| [📚 Library App](https://44ry4n.github.io/library-app/)           | Object constructors, transitions, validations, responsive card layout                                | JS, CSS                    |
-| [🧠 Tic-Tac-Toe](https://44ry4n.github.io/tic-tac-toe/)           | Minimax AI, floating UI, video background, theme switching                                           | JS, CSS                    |
-| [🎮 Match-Two Game](https://44ry4n.github.io/project-match-two/)  | DOM control, 3D flip animations, responsive game layout                                              | JS, CSS Grid               |
-| [📋 Admin Dashboard](https://44ry4n.github.io/admin-dashboard/)   | Add/remove projects, zoom reveal overlay, sidebar header toggle                                      | JS, CSS Grid               |
-| [📩 Form UX Project](https://44ry4n.github.io/project-form/)      | Animated form panels, full validation, accessibility features                                        | HTML, CSS, JS              |
-| [🍽️ Restaurant Page](https://44ry4n.github.io/restaurant-page/)  | Webpack bundling, modular design, clean file structure                                               | Webpack, JS                |
+| [ Intours API](https://github.com/44RY4N/Intours-API) | REST API with MVC architecture, structured routing, and scalable backend design (Multibranched with MongoDB Integration) | Node.js, Express.js, MVC |
+| [ Battleships](https://44ry4n.github.io/battleships/)          | 3D menu, camera transitions, custom-built AI opponent, GSAP & Three.js animations                    | JS, Three.js, GSAP         |
+| [ Resume Generator](https://44ry4n.github.io/resume-generator/) | Live resume preview, jsPDF export, modular form architecture, link detection                         | React, jsPDF, CSS          |
+| [ Weather App](https://44ry4n.github.io/weather-app/)          | Multi-API project with real-time weather, time zones, wind animation, responsive theming, and search | JS, Fetch API, Modular CSS |
+| [ To-Do List](https://44ry4n.github.io/todo-list/)              | Modular JS structure, full CRUD, localStorage, filters, date sorting, SOLID principles               | JS, HTML, CSS              |
+| [ Library App](https://44ry4n.github.io/library-app/)           | Object constructors, transitions, validations, responsive card layout                                | JS, CSS                    |
+| [ Tic-Tac-Toe](https://44ry4n.github.io/tic-tac-toe/)           | Minimax AI, floating UI, video background, theme switching                                           | JS, CSS                    |
+| [ Match-Two Game](https://44ry4n.github.io/project-match-two/)  | DOM control, 3D flip animations, responsive game layout                                              | JS, CSS Grid               |
+| [ Admin Dashboard](https://44ry4n.github.io/admin-dashboard/)   | Add/remove projects, zoom reveal overlay, sidebar header toggle                                      | JS, CSS Grid               |
+| [ Form UX Project](https://44ry4n.github.io/project-form/)      | Animated form panels, full validation, accessibility features                                        | HTML, CSS, JS              |
+| [ Restaurant Page](https://44ry4n.github.io/restaurant-page/)  | Webpack bundling, modular design, clean file structure                                               | Webpack, JS                |
 
 ---
 
-## 🔧 Currently Building
+##  Currently Building
 
 * **Portfolio Site v2** with 3D & motion design
 * **Intours API** (backend-focused, modular architecture, implementing MongoDB)
@@ -101,7 +101,7 @@ UI & Interaction Design:
 
 ---
 
-## 🌱 Learning Goals
+##  Learning Goals
 
 * Backend system design & API scalability
 * MongoDB integration & optimization
@@ -110,30 +110,30 @@ UI & Interaction Design:
 
 ---
 
-## 🧠 Soft Skills
+##  Soft Skills
 
-* ⚡ **Fast Debugger** – Quick at tracing issues across UI & logic
-* ✨ **Creative UI/UX Thinker** – Strong visual and interaction sense
-* 🧩 **Architectural Thinking** – Breaks problems into scalable systems
-* 🧠 **AI Logic Builder** – Built human-like AI logic for games
-* 🧼 **Clean Coder** – Consistent structure, naming, and readability
-* 🧵 **Detail-Oriented** – Cares deeply about polish and usability
-
----
-
-## 🧭 Stats & Highlights
-
-* 🧪 **Project Volume**: 10+ full projects live
-* 🕹️ **Game AI Implemented**: 2 (Minimax + Heuristic AI)
-* ⚒️ **3D + Animation**: Three.js, GSAP, WebGL basics
+*  **Fast Debugger** – Quick at tracing issues across UI & logic
+*  **Creative UI/UX Thinker** – Strong visual and interaction sense
+*  **Architectural Thinking** – Breaks problems into scalable systems
+*  **AI Logic Builder** – Built human-like AI logic for games
+   **Clean Coder** – Consistent structure, naming, and readability
+*  **Detail-Oriented** – Cares deeply about polish and usability
 
 ---
 
-## 📫 Connect With Me
+##  Stats & Highlights
 
-* 📬 Email: [aaryan00652@gmail.com](mailto:aaryan00652@gmail.com)
-* 🌐 GitHub: [44RY4N](https://github.com/44RY4N)
-* 🧠 Portfolio: Coming soon...
+*  **Project Volume**: 10+ full projects live
+*  **Game AI Implemented**: 2 (Minimax + Heuristic AI)
+*  **3D + Animation**: Three.js, GSAP, WebGL basics
+
+---
+
+##  Connect With Me
+
+*  Email: [aaryan00652@gmail.com](mailto:aaryan00652@gmail.com)
+*  GitHub: [44RY4N](https://github.com/44RY4N)
+*  Portfolio: Coming soon...
 
 ---
 
