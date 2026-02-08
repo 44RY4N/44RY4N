@@ -2,14 +2,14 @@
 ---
 
 <p align="center">
-  🧠 BTech CSE Student @ IIIT Guwahati <br/>
-  💻 Web Development, Creative UI/UX & Backend Engineering <br/>
-  🎮 Building smart, interactive, and scalable web experiences <br/>
+   BTech CSE Student @ IIIT Guwahati <br/>
+   Web Development, Creative UI/UX & Backend Engineering <br/>
+   Building smart, interactive, and scalable web experiences <br/>
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Third-year Computer Science undergrad. I combine **front-end creativity with backend logic** to create apps that *work smart and scale clean*.
 
@@ -17,15 +17,15 @@ Currently diving deep into **Node.js, Express, modular backend architecture**, a
 
 ---
 
-## 🧠 Skills & Tools
+##  Skills & Tools
 
-### 👨‍💻 Languages:
+###  Languages:
 
 * **C**, **Python**, **Java**, **SQL**
 * **HTML5**, **CSS3**, **JavaScript (ES6)**
 * **React**, **jsPDF**, **Three.js**
 
-### ⚙️ Backend:
+###  Backend:
 
 * **Node.js**, **Express.js**
 * **REST API Development**
@@ -33,16 +33,22 @@ Currently diving deep into **Node.js, Express, modular backend architecture**, a
 * Middleware & Routing
 * Learning **MongoDB** (schema design & integration)
 
-### 🎨 Front-End:
+###  Front-End:
 
-* Responsive Design using `%`, `em`, `rem`, `vh/vw`
-* CSS Grid, Flexbox & 3D Transforms
-* Animations: CSS Keyframes, GSAP
-* Form Validation (HTML5 & JS), Accessibility
-* DOM Manipulation, Modular Architecture (ES6)
-* Three.js & WebGL (Intermediate level)
+* **React** – Component-driven UI architecture using Hooks & modern patterns
+* Scalable state management & reusable component systems
+* Dynamic forms, validation & controlled inputs
+* REST API integration & async data handling
+* Performance-aware rendering & clean UI logic
 
-### ⚙️ Developer Workflow:
+UI & Interaction Design:
+
+* Responsive layouts (Flexbox, Grid)
+* Motion & 3D UI (GSAP, Three.js)
+* Modular CSS architecture
+* Accessibility & UX-focused validation
+
+###  Developer Workflow:
 
 * Git & GitHub (version control, branching, project setup)
 * NPM, Webpack (custom configs), ES6 Modules
